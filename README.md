@@ -1,6 +1,6 @@
 ## Hi 👋, my name is Adam.
 
-- 🔭 I’m currently working at www.matherion.eu
+- 🔭 I’m currently working at qplay.cz
 - 🌱 I’m currently learning TypeScript.
 - 📫 Discord: itIsMaku#0001
 
