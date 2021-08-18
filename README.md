@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working at [QPlay.cz](https://qplay.cz/)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Swift**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**, **Lua** and **SQL databases**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
