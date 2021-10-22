@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/iammakuuu" target="blank"><img src="https://img.shields.io/twitter/follow/iammakuuu?logo=twitter&style=for-the-badge" alt="iammakuuu" /></a> </p>
 
-- 🔭 I’m currently working at [QPlay.cz](https://qplay.cz/)
+- 🔭 I’m currently working at [Matherion](https://qplay.cz/)
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 Hire me on your project, we can make something big.
 
-- 💬 Ask me about **Java**, **Lua** and **SQL databases**.
+- 💬 Ask me about **Java**, **Kotlin**, **Redis**, **Lua** and **SQL databases**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
