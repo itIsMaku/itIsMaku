@@ -12,7 +12,7 @@ Throughout my career, I have gained valuable experience with various database te
 
 ![](https://github-readme-stats.vercel.app/api?username=itismaku&show_icons=true&theme=dark&title_color=d22eff&text_color=ffffff&hide_border=true&locale=en)
 
-<h3>Connect with me:</h3>
+<h3>Connect with me</h3>
 - ig @a._.volkman<br>
 - twt @just_makuu<br>
 - dis maku#5434 (itismaku)
